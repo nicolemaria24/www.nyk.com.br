@@ -1,2 +1,41 @@
-<title>Document</title>
-<link rel=”stylesheet” href=”style.css”>
+header {
+    background-color:#B52C7E;
+    color: white;
+    }
+    .cabecalho-imagem{
+        width: 20%;
+    }
+    {margim:0;
+    padding:0;}
+    Cabeçalho {
+        background-color: #B52C7E;
+        color: white
+        display:flax;
+        justify-contet:space-aroud;
+        padding:24px 0;}
+        
+    cabeçalho-lista-item{
+        display: inline-block;
+        margin: 0 16px;
+        padding: 24px 0;
+        font-size: 24px;}
+
+        .escola-conteudo{
+            background-color:linear- gradient(#383D58, #00c0eb);
+            color; white;
+            display: flex;
+        }
+
+        .escola-conteudo{
+            width:35%;
+            display:flex;
+            justify-content:center;
+            align-items:center ;
+        }
+        .escola-imagem{
+            width:25%;
+        }
+
+        .escola-titulo{
+            padding:25px 0;           
+        }
