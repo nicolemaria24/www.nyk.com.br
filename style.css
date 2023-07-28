@@ -1,28 +1,24 @@
-header {
-    background-color:#B52C7E;
-    color: white;
-    }
+
     .cabecalho-imagem{
-        width: 20%;
-    }
-    {margim:0;
+        width: 20%;  
+     margin:0;
     padding:0;}
-    Cabeçalho {
-        background-color: #B52C7E;
-        color: white
-        display:flax;
-        justify-contet:space-aroud;
-        padding:24px 0;}
+    .cabeçalho {
+        background-color: #2c95b5;
+        color: white ;
+         display:flex;
+        justify-content:space-around;
+        padding :24px 0;}
         
-    cabeçalho-lista-item{
+       .cabeçalho-lista-item{
         display: inline-block;
         margin: 0 16px;
         padding: 24px 0;
         font-size: 24px;}
 
-        .escola-conteudo{
+       .escola-conteudo{
             background-color:linear- gradient(#383D58, #00c0eb);
-            color; white;
+            color : white;
             display: flex;
         }
 
